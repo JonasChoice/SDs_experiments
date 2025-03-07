@@ -1,15 +1,13 @@
-import gadjid
+
 import numpy as np
-#import gadjid
+
 import networkx as nx
-import sys
-#import os
+
 import helper_functions as fcs
 import copy
-sys.path.append('/Users/jowa05/GitHub/sep_distances')
-import metrics as mrx
-import mixed_graph as mixed
-import time
+
+from codebase import metrics as mrx
+
 
 seed = 4200
 

@@ -5,8 +5,7 @@ import numpy as np
 import sys
 
 
-sys.path.append('/Users/jowa05/GitHub/sep_distances/codebase/')
-import mixed_graph as mixed
+from codebase import mixed_graph as mixed
 import itertools
 
 

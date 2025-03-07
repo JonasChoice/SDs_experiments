@@ -1,10 +1,10 @@
 import numpy as np
 import networkx as nx
-import sys
+
 import helper_functions as fcs
 import copy
-sys.path.append('/Users/jowa05/GitHub/sep_distances/codebase/')
-import metrics as mrx
+
+from codebase import metrics as mrx
 
 
 seed = 420
